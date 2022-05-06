@@ -1,30 +1,29 @@
 {
-    "notes": [
-        {
-        "title": "Kermit",
-        "text": "The Frog\n",
-        "id": "4ddfde7b-2418-4c80-b5a9-26c18d3f27d2"
-        },
-        {
-        "title": "Gonzo",
-        "text": "The Magnificent",
-        "id": "9c7b94ed-56f9-48ff-b11b-2ae9d0afb33d"
-        },
-        {
-        "title": "Rizzo",
-        "text": "The  Rat",
-        "id": "ec4247f5-c5ab-4680-b691-6d10df34ff16"
-        },
-        {
-        "title": "Rowlf",
-        "text": "The Dog",
-        "id": "bfb11526-2691-4819-a3a7-e5e7839c5ed7"
-        },
-        {
-        "title": "Pepe",
-        "text": "The King Prawn",
-        "id": "985490f0-3844-4f7e-ae02-11324287c03a"
-        }
-    ]
-    
-  }
+  "notes": [
+    {
+      "title": "Kermit",
+      "text": "The Frog\n",
+      "id": "4ddfde7b-2418-4c80-b5a9-26c18d3f27d2"
+    },
+    {
+      "title": "Gonzo",
+      "text": "The Magnificent",
+      "id": "9c7b94ed-56f9-48ff-b11b-2ae9d0afb33d"
+    },
+    {
+      "title": "Rizzo",
+      "text": "The  Rat",
+      "id": "ec4247f5-c5ab-4680-b691-6d10df34ff16"
+    },
+    {
+      "title": "Rowlf",
+      "text": "The Dog",
+      "id": "bfb11526-2691-4819-a3a7-e5e7839c5ed7"
+    },
+    {
+      "title": "Pepe",
+      "text": "The King Prawn",
+      "id": "985490f0-3844-4f7e-ae02-11324287c03a"
+    }
+  ]
+}
