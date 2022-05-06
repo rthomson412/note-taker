@@ -1,4 +1,16 @@
 {
-    "notes": []
-    
-}
+    "notes": [
+      {
+        "title": "Kermit",
+        "text": "The Frog"
+      },
+      {
+        "title": "Gonzo",
+        "text": "The Magnificent"
+      },
+      {
+        "title": "Rizzo",
+        "text": "The Rat"
+      }
+    ]
+  }
