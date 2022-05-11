@@ -5,3 +5,4 @@ A simple productivity application made with node.js that allows you to create an
 afternoon-bayou-24251.herokuapp.com/
 
 ## Screenshot
+(./public/assets/NoteTakerScrrenshot.jpg)
